@@ -1,0 +1,46 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.esas{
+    width: 90%;
+    height: 70vh;
+    background-color: rgb(166, 166, 178);
+    margin-left: 65px;
+    margin-top: 100px;
+
+}
+.elaqe{
+    display: flex;
+    flex-wrap: wrap;
+    row-gap: 20px;
+    gap: 30px;
+    padding-left: 100px;
+    
+}
+button{
+    border-radius: 10px;
+    width: 200px;
+    height: 60px;
+    font-size: 20px;
+    background-color: brown;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+input{
+    border-radius: 15px;
+}
+.green{
+    color: greenyellow;
+}
+div label{
+    display: block;
+    font-size: 25px;
+    color: green;
+}
+.basliq{
+    margin-left: 100px;
+    margin-top: 40px;
+    padding-bottom: 40px;
+}
